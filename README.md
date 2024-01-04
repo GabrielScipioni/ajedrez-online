@@ -10,8 +10,8 @@
 ## Tabla de Contenidos
 
 
-* [Pagina](#Pagina)
-* [Planeamiento](#Planeamiento)
+* [Pagina](#pagina)
+* [Planeamiento](#planeamiento)
 * 
 * 
 *
@@ -28,7 +28,6 @@
 # Pagina
 #### aun estamos en progreso
 **Proyecto al 25%**
-<img width="100" height="100" src="https://img.icons8.com/ios-filled/100/40C057/loading-bar--v1.png" alt="loading-bar--v1"/>
 
 Si quiere darle un vistazo a mi progreso, haga [clic aquí](https://gabrielscipioni.github.io/ajedrez-online/)
 
