@@ -34,7 +34,7 @@
 
 
 
-#planeamiento
+# Planeamiento
 **la idea principal**
 es hacer un juego de ajedrez con funcionalidades basicas
 > mover piezas, hacer las jugadas y tener en cuenta los movimientos posibles
