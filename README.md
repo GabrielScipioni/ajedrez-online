@@ -10,8 +10,8 @@
 ## Tabla de Contenidos
 
 
-* [planeamiento](#planeamiento)
-* 
+* [Pagina](#Pagina)
+* [Planeamiento](#Planeamiento)
 * 
 * 
 *
@@ -25,7 +25,8 @@
 
 ------------
 
-
+# Pagina
+Si quiere darle un vistazo a mi progreso, haga [clic aquí](https://gabrielscipioni.github.io/ajedrez-online/)
 
 
 
