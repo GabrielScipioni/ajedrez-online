@@ -1,30 +1,32 @@
-![ajedrez](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLRRgtalYxmQuCF6PuTVpULzgJ_Zq79-AMQ&usqp=CAU "ajedrez")
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLRRgtalYxmQuCF6PuTVpULzgJ_Zq79-AMQ&usqp=CAU" alt="ajedrez">
+</p>
+
+------------
+<h2 align="center">Ajedrez</h2>
+
+------------
+
+## Tabla de Contenidos
 
 
+* [planeamiento](#planeamiento)
+--
+#planeamiento
+**la idea principal**
+es hacer un juego de ajedrez con funcionalidades basicas
+> mover piezas, hacer las jugadas y tener en cuenta los movimientos posibles
 
-
-# ajedrez-online
-es una web que permite tener partidas de ajedrez
-
-/////////////////////
-////PLANEAMIENTO////
-///////////////////
-
-    -Front
+sinembargo tengo otras ideas pendientes por realizar como puedo presentar en mi siguiente esquema
+**FrontEnd**
         - tablero
         - fichas
-        - logica de movimientos
-            - legales
-            - ilegales
         - maquina de estado
         - Ally (tal vez)
-            -jugadas con teclado
-            -voz con jugadas
-
-    -Back
+        -jugadas con teclado
+        -voz con jugadas
+**BackEnd**
+        - logica de movimientos
         - setup socket
         - salas
         - deploy
-
-
-
