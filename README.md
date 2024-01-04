@@ -11,7 +11,29 @@
 
 
 * [planeamiento](#planeamiento)
+* 
+* 
+* 
+*
+*
+*
+*
+*
+*
+*
+*   
 --
+
+
+
+
+
+
+
+
+
+
+
 #planeamiento
 **la idea principal**
 es hacer un juego de ajedrez con funcionalidades basicas
