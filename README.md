@@ -1,3 +1,8 @@
+![ajedrez](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLRRgtalYxmQuCF6PuTVpULzgJ_Zq79-AMQ&usqp=CAU "ajedrez")
+
+
+
+
 # ajedrez-online
 es una web que permite tener partidas de ajedrez
 
